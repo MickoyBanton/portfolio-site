@@ -1,2 +1,2 @@
 # portfolio-site
-# Code for my profolio website
+Code for my profolio website
