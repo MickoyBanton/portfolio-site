@@ -21,7 +21,8 @@ function App() {
                               <a href="/">Mickoy Banton</a>
                             </h1>
                             <h2 className="mt-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl">Software Engineer</h2>
-                            <p className="mt-4 max-w-xs leading-normal">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                            <p className="mt-4 max-w-xs leading-normal">Passionate and detail-oriented software engineer specializing in AI systems, 
+                            backend development, and full-stack application design.</p>
 
                             <nav className="nav hidden lg:block" aria-label="In-page jump links">
                               <ul className="mt-16 w-max">
@@ -83,7 +84,7 @@ function App() {
 
                             <div className="sticky top-0 z-20 -mx-6 mb-4 w-screen bg-slate-900/75 px-6 py-5 backdrop-blur md:-mx-12 md:px-12 lg:relative lg:top-auto lg:mx-auto lg:w-full lg:px-0 lg:py-0">
                               <p class="mb-4">
-                                I’m a Computer Science student with strong analytical and problem-solving skills, 
+                                I’m a Computer Science graduate with strong analytical and problem-solving skills, 
                                 experienced in system design, network analysis, and backend automation. 
                                 I’m passionate about wireless communication systems, network optimization, 
                                 and applying AI-driven insights to improve connectivity and performance. 
@@ -266,7 +267,9 @@ function App() {
 
                                   {/* IMAGE PLACEHOLDER */}
                                   <div className="sm:order-1 sm:col-span-2 sm:translate-y-1">
-                                    <div className="aspect-video rounded border-2 border-slate-200/10 bg-slate-800"></div>
+                                    <div className="aspect-video rounded border-2 border-slate-200/10 bg-slate-800">
+                                      <img src="public/Web image.png" alt="project image" />
+                                    </div>
                                   </div>
                                 </div>
                               </li>
@@ -322,7 +325,9 @@ function App() {
 
                                   {/* IMAGE PLACEHOLDER */}
                                   <div className="sm:order-1 sm:col-span-2 sm:translate-y-1">
-                                    <div className="aspect-video rounded border-2 border-slate-200/10 bg-slate-800"></div>
+                                    <div className="aspect-video rounded border-2 border-slate-200/10 bg-slate-800">
+                                      <img src="public/AI image.png" alt="project image" />
+                                    </div>
                                   </div>
                                 </div>
                               </li>
@@ -380,7 +385,9 @@ function App() {
 
                                   {/* IMAGE PLACEHOLDER */}
                                   <div className="sm:order-1 sm:col-span-2 sm:translate-y-1">
-                                    <div className="aspect-video rounded border-2 border-slate-200/10 bg-slate-800"></div>
+                                    <div className="aspect-video rounded border-2 border-slate-200/10 bg-slate-800">
+                                      <img src="public/Database image.png" alt="project image" />
+                                    </div>
                                   </div>
                                 </div>
                               </li>
