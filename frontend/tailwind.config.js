@@ -8,5 +8,11 @@ export default {
     extend: {},
   },
   plugins: [],
+  safelist: [
+    'active-section',
+    'active-section:w-16',
+    'active-section:bg-slate-200',
+    'active-section:text-slate-200'
+  ],
 }
 

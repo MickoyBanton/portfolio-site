@@ -40,3 +40,14 @@
 .read-the-docs {
   color: #888;
 }
+
+.nav a.active .nav-indicator {
+  width: 4rem; /* w-16 */
+  background-color: #e2e8f0; /* slate-200 */
+}
+
+.nav a.active .nav-text {
+  color: #e2e8f0; /* slate-200 */
+  transform: translateX(0.25rem); /* push out */
+}
+
