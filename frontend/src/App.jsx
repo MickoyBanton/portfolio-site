@@ -204,7 +204,7 @@ function App() {
                                       >
                                         <span className="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
                                         <span>
-                                          Data Collection & Automation Intern ·
+                                          Data Collection & Automation Intern.
                                           <span className="inline-block">
                                             Jamaica Artificial Intelligence Association (JAIA)
                                             <svg
