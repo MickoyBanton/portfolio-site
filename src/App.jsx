@@ -329,7 +329,7 @@ function App() {
                                   {/* IMAGE PLACEHOLDER */}
                                   <div className="sm:order-1 sm:col-span-2 sm:translate-y-1">
                                     <div className="aspect-video rounded border-2 border-slate-200/10 bg-slate-800">
-                                      <img src="public/Web image.png" alt="project image" />
+                                      <img src="/web-image.png" alt="project image" />
                                     </div>
                                   </div>
                                 </div>
@@ -387,7 +387,7 @@ function App() {
                                   {/* IMAGE PLACEHOLDER */}
                                   <div className="sm:order-1 sm:col-span-2 sm:translate-y-1">
                                     <div className="aspect-video rounded border-2 border-slate-200/10 bg-slate-800">
-                                      <img src="public/AI image.png" alt="project image" />
+                                      <img src="/ai-image.png" alt="project image" />
                                     </div>
                                   </div>
                                 </div>
@@ -447,7 +447,7 @@ function App() {
                                   {/* IMAGE PLACEHOLDER */}
                                   <div className="sm:order-1 sm:col-span-2 sm:translate-y-1">
                                     <div className="aspect-video rounded border-2 border-slate-200/10 bg-slate-800">
-                                      <img src="public/Database image.png" alt="project image" />
+                                      <img src="/database-image.png" alt="project image" />
                                     </div>
                                   </div>
                                 </div>
